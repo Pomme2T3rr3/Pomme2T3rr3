@@ -4,7 +4,7 @@
 🔎 Passionate about **programming, cybersecurity, and tech**   
 
 ## 🔧 Tech Stack  
-🖥 **Languages:** `C` `Python` `Bash`  
+🖥 **Languages:** `C` `Python` `HTML` `CSS` `JS` `Bash`  
 💾 **OS:** `Linux (Arch btw)` `macOS`  
 🛠 **Tools:** `Neovim` `Zsh`  
 
