@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 About Me  
+🎓 **Student in Mathematics & Computer Science**  
+📍 **France**  
+🔎 Passionate about **programming, cybersecurity, and tech**   
 
-<!--
-**Pomme2T3rr3/Pomme2T3rr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+🖥 **Languages:** `C` `Python` `Bash`  
+💾 **OS:** `Linux (Arch btw)` `macOS`  
+🛠 **Tools:** `Neovim` `Zsh`  
 
-Here are some ideas to get you started:
+## 📌 Current Projects  
+- 🏗 **Developing a custom bootloader**  
+- 🎮 **Developpings tools/games in C**  
+- 🔍 **Exploring pentesting techniques**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me  
+🌐 **GitHub:** [Pomme2T3rr3](https://github.com/Pomme2T3rr3)  
+📧 **Email:** damian.deneuville@gmail.com  
+
+---
+
