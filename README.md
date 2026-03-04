@@ -5,7 +5,7 @@ Passionate about **programming, cybersecurity, and tech**
 
 ## 🔧 Tech Stack  
 🖥 **Languages:** `C` `Python` `HTML` `CSS` `JS` `Bash`  
-💾 **OS:** `Linux (Arch btw)`  `Void Linux`  `Proxmox`  `macOS`
+💾 **OS:** `Linux (Arch btw)`  `Void Linux`  `Proxmox`  `macOS`  
 🛠 **Tools:** `Neovim` `Zsh`  
 
 ## 📌 Current Projects  
