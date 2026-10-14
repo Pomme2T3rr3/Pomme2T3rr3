@@ -5,12 +5,12 @@ Passionate about **programming, cybersecurity, and tech**
 
 ## 🔧 Tech Stack  
 🖥 **Languages:** `C` `Python` `HTML` `CSS` `JS` `Bash`  
-💾 **OS:** `Linux (Arch btw)`  `Void Linux`  `Proxmox`  `macOS`  
-🛠 **Tools:** `Neovim` `Zsh`  
+💾 **OS:** `Gentoo`  `Void Linux`  `Proxmox`  `macOS`  
+🛠 **Tools:** `Neovim` `fish`  
 
 ## 📌 Current Projects  
-- **Developing a custom bootloader**  
-- **Developpings tools/games in C**  
+- **Building a Homelab**  
+- **Developing tools/games in C**  
 - **Exploring pentesting techniques**  
 
 ## 📫 Contact Me  
